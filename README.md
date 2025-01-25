@@ -56,11 +56,6 @@ Here are some projects I’m proud of:
 
 
 
----
-
-
----
-
 ### 📌 **Let’s Build Something Amazing Together!**
 Whether it’s healthcare tech, open-source projects, or just brainstorming ideas, I’m always open to collaboration. Let’s connect and make a difference! And if you’re up for a game of chess, even better. ♟️
 
