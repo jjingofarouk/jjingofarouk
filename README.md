@@ -1,6 +1,7 @@
 # 👋 Hey, I'm @jjingofarouk
 
-I'm a full-stack developer and medical doctor passionate about building tech that solves real-world problems. From frontend polish to backend performance, I enjoy working across the stack — and I'm currently open to work and collaborations.
+I'm a full-stack developer and medical doctor. I love building tech that solves 
+real-world problems for real people. I enjoy working across the stack — and I'm currently open to work and collaborations.
 
 ---
 
